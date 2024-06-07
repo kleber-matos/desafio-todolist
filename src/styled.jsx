@@ -58,6 +58,12 @@ export const Campo = styled.div`
   }
 `;
 
+export const Box = styled.section`
+  width: 50%;
+  max-width: 500px;
+  position: absolute;
+`;
+
 export const Lista = styled.div`
   height: 5vh;
   display: flex;
