@@ -80,6 +80,7 @@ export const Lista = styled.div`
     width: 80%;
     font-weight: 300;
     text-align: start;
+    overflow-x: hidden;
   }
 
   button {
